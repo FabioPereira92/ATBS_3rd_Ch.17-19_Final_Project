@@ -42,9 +42,8 @@ A program that reads a .csv file with data to be analysed, a .json file with con
 
 ## Tech Stack
 - Python 3.13
-- Standard library (os, csv, json, datetime, time, pathlib)
-- xmltodict
-- python-docx
+- Standard library: os, csv, json, datetime, time, pathlib
+- Third-party libraries: xmltodict, python-docx
 
 ## License
 MIT
