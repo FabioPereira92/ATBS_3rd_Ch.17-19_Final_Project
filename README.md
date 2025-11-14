@@ -13,23 +13,32 @@ A program that reads a .csv file with data to be analysed, a .json file with con
 2. Run in terminal.
 
 ## Example Usage
-### Example spreadsheet
-![example spreadsheet](https://github.com/user-attachments/assets/b2a595a7-a3a7-49bc-80f4-181b190e7986)
+### Pre-run folder structure
+![pre-run folder structure1](https://github.com/user-attachments/assets/685c8147-3bcb-43ce-99dc-1ead15c0ee57)
+![pre-run folder structure2](https://github.com/user-attachments/assets/93ae3992-8cf6-467b-abf9-62877665282a)
 
-### Example of run dialog box usage 
-![example of command line usage](https://github.com/user-attachments/assets/8a89868f-38d3-46d8-a38a-1b6e487b6ffa)
+### Content of the csv file 
+![content of the csv file](https://github.com/user-attachments/assets/c9160ddb-55e8-4f4e-b8ac-4c1858430ed8)
 
-### Content of the terminal after choosing "help"
-![content of the terminal after choosing "help"](https://github.com/user-attachments/assets/289c4daa-836b-450d-9be9-1a4f1e220cfc)
+### Content of the json file 
+![content of the json file](https://github.com/user-attachments/assets/df370cfd-bd44-4439-87d6-6dd961aa0333)
 
-### Content of the table "items" in the database
-![content of the table "items" in the database](https://github.com/user-attachments/assets/a28cff80-f8ec-4ab7-b2b0-81254cd06ec3)
+### Content of the xml file 
+![content of the xml file](https://github.com/user-attachments/assets/c1a32aca-e170-4799-8fa5-9cfe5c9eb2f4)
 
-### Content of the table "sync_log" in the database
-![content of the table "sync_log" in the database](https://github.com/user-attachments/assets/33ba3316-3136-4280-b989-9af6a9a3bdfa)
+### post-run folder structure
+![post-run folder structure 1](https://github.com/user-attachments/assets/cce21f91-f96f-41d3-bd18-22f03314ad62)
+![post-run folder structure 2](https://github.com/user-attachments/assets/f6230f76-4434-4cd6-a71c-ccb0cddcf4d7)
+![post-run folder structure 3](https://github.com/user-attachments/assets/303b2ee3-d0cd-4c45-9be2-2acd669e1d64)
+![post-run folder structure 4](https://github.com/user-attachments/assets/5abe3f9a-df22-4b85-a51b-8932e52a44e8)
+![post-run folder structure 5](https://github.com/user-attachments/assets/de15c49e-daea-43fc-a17e-991ddef00654)
 
-### Content of the terminal after choosing "summary"
-![content of the terminal after choosing summary](https://github.com/user-attachments/assets/937a69b6-e4cd-45a1-a811-1430aa47e8ad)
+### Content of the report
+![content of the report pg1](https://github.com/user-attachments/assets/45fd28d4-7969-4d78-b987-7bc59ec7a799)
+![content of the report pg2](https://github.com/user-attachments/assets/ab357b4a-deb1-4677-8e02-27003c865830)
+
+### Content of the log file
+![content of the log file](https://github.com/user-attachments/assets/e2665a06-caeb-482b-8c92-5b5eb97ea17d)
 
 ## Tech Stack
 - Python 3.13
