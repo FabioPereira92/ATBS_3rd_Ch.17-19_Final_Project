@@ -1,0 +1,12 @@
+<settings>
+    <paths>
+        <report_directory>Reports</report_directory>
+        <archive_directory>Archive</archive_directory>
+    </paths>
+
+    <schedule>
+        <enabled>true</enabled>
+        <run_every>24h</run_every>
+        <!-- "24h" or "weekly" -->
+    </schedule>
+</settings>

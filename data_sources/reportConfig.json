@@ -1,0 +1,12 @@
+{
+  "report_title": "Daily Sales Summary Report",
+  "company_name": "ACME Retail Systems",
+  "author": "Automated Reporting Bot",
+  "decimal_places": 2,
+  "currency": "EUR",
+  "footer_text": "Report generated automatically by sheetSync system.",
+  "highlight_threshold": {
+    "low_sales": 20,
+    "high_sales": 50
+  }
+}
