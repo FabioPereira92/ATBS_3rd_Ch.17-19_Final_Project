@@ -5,8 +5,8 @@ A program that reads a .csv file with data to be analysed, a .json file with con
 - Reading and parsing a .csv, a .json and a .xml files
 - Analysing and summarizing the data from the files
 - Generating a .docx report
-- Generating and appending to a log .csv file for every report generation
 - Scheduling the periodic generation of reports
+- Generating and appending to a log .csv file for every report generation
   
 ## How to run
 1. Clone this repository or download the file `autoReportGenerator.py`.
