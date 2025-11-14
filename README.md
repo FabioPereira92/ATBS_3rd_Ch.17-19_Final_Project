@@ -1,12 +1,12 @@
-# Sheet Sync
-A command line program that lets the user sync data between a Google Sheet and a local SQLite database.
+# Auto Report Generator
+A program that reads a .csv file with data to be analysed, a .json file with configuration information and a .xml file with settings and generates a .docx report based on the information from those files. It also schedules the periodic creation of the report and logs an entry in a log .csv file for every report generated.
 
 ## Features
-- init-db - Initializes the database.
-- pull - Updates the database with the contents of the spreadsheet.
-- push - Updates the spreadsheet with the contents of the database.
-- summary - Prints a summary to the console.
-- help - Prints a description of what each command does.
+- Reading and parsing a .csv, a .json and a .xml files
+- Analysing and summarizing the data from the files
+- Generating a .docx report
+- Generating and appending to a log .csv file for every report generation
+- Scheduling the periodic generation of reports
   
 ## How to run
 1. Clone this repository or download the file `autoReportGenerator.py`.
